@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>Mengenal Paragraf</title>
+</head>
+
+<body style="background-color: aqua; color: red">
+	Ayo Belajar HTML (Paragraf 1)
+	Bersama Raspiani (Paragraf 2)
+
+	<p> Ayo Belajar HTML (Paragraf 1) </p>
+	<p> Bersama Raspiani (Paragraf 2) </p>
+
+
+	Ayo Belajar HTML (Paragraf 1)
+	<br/>
+	Bersama Raspiani (Paragraf 2)
+
+	<p> ini adalah teks <em>miring</em> 
+	<br/>
+	sementara ini adalah teks <strong>tebal</strong>
+	</p>
+
+	<p> Untuk memiringkan tulisan juga bisa menggunakan tag <i>italic</i>
+	dan untuk menebalkannya juga bisa menggunakan <b>bold</b>
+	</p> 
+
+	<p><b> Belajar Heading </b><br/>
+
+	<h1> Heading 1 </h1>
+	<h2> Heading 2 </h2>
+	<h3> Heading 3 </h3>
+	<h4> Heading 4 </h4>
+	<h5> Heading 5 </h5>
+	<h6> Heading 6 </h6>
+
+<h1> Mengenal HTML </h1>
+<p> ... HTML adalah Hypertext Markup Language </p>
+<h2> Editor HTML </h2>
+<p> ... Gunakan Notepad++ cukup bagus... </p>
+<h3> Browser </h3>
+<p> .. Browser apapun bisa dimanfaatkan.. </p>
+
+<p><b><h1> Daftar Invetaris </h1></b></p>
+<h2> Menggunakan Ordered List </h2>
+
+<ol>
+	<li> Kursi </li>
+	<li> Meja </li>
+	<li> Lemari </li>
+	<li> Ayunan </li>
+	<li> Pot </li>
+</ol>
+
+<h3> Menggunakan Unordered List </h3>
+<ul>
+	<li> Kursi </li>
+	<li> Meja </li>
+	<li> Lemari </li>
+	<li> Ayunan </li>
+	<li> Pot </li>
+</ul>
+
+<p><h1><b> PELAJARAN BARU RASPIANI </B></h1></p>
+
+<ol style="list-style-type: lower-alpha">
+	<li> Kursi </li>
+	<li> Meja </li>
+	<li> Lemari </li>
+	<li> Ayunan </li>
+	<li> Pot </li>
+</ol>
+
+<h3> Menggunakan Unordered List </h3>
+<ul style="list-style-type: square" >
+	<li> Kursi </li>
+	<li> Meja </li>
+	<li> Lemari </li>
+	<li> Ayunan </li>
+	<li> Pot </li>
+</ul>
+
+
+
+
+
+<hr>
+
+<p>Copyright &copy; Raspiani &trade; </p>
+
+</body>
+
+
+</html>

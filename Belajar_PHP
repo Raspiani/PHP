@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head> <title> Mendesain Form </title> <head>
+<body>
+
+
+<p><b><h1> BELAJAR MEMBUAT FORM </h1></b></p>
+
+<p> Tambah Data Penduduk
+<br/>
+<form action = "tambah_db.php" method = "post">
+
+Nama: <input type = "text" name = "nama" 
+/><br/>
+No. KTP : <input type = "text" name = "nomor_ktp" 
+/><br/>
+No. SIM : <input type = "text" name = "nomor_sim" 
+/><br/>
+Tanggal Lahir : <input type = "date" name = "tanggal_lahir" 
+/><br/>
+Kota Domisili : 
+<select>
+		<option value= "01"> Karawang </option>
+		<option value= "02"> Jakarta </option>
+		<option value= "03"> Surabaya </option>
+</select>
+<input type = "Submit" value = "Kirim"
+
+
+</form>
+</p>
+
+
+</body>
+
+</html>
